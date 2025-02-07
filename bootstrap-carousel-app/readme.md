@@ -119,3 +119,4 @@ Since GitHub Pages hosts static files (HTML, JS, CSS), anyone can download them.
 
 🚀 **Now, your Angular app is live!** 🎉
 
+https://vsrepalle.github.io/chess-tournaments-info-deploy/carousel
